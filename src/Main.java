@@ -83,7 +83,7 @@ public class Main {
 
             int firstFriday = 7;
             for (int day = firstFriday; day <= 31; day += 7) {
-                System.out.println("Сегодня пятница, " + day + " -е число ");
+                System.out.println("Сегодня пятница , " + day + " -е число ");
             }
 
             System.out.println(" Task 8");
